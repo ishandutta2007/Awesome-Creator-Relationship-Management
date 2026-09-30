@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creator-Relationship-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creator-Relationship-Management?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creator-Relationship-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creator-Relationship-Management?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creator-Relationship-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creator-Relationship-Management?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -51,9 +51,9 @@ Below is a breakdown of leading SaaS platforms for creator discovery, campaign t
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of open-source creator platforms, discovery engines, and adaptable CRM foundations, sorted by **GitHub Star Count** in descending order.
+Below is a curated list of open-source creator platforms, discovery engines, and adaptable CRM foundations, sorted by **GitHub Stars_Count** in descending order.
 
-| Project & Repo | Description | Stars | Tech Stack |
+| Project & Repo | Description | GitHub_Stars | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** ⚡ | The leading open-source enterprise CRM. Excellent foundation for building custom creator pipelines, partnership deals, and campaign tracking via custom objects. | [![Twenty Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, PostgreSQL, NestJS |
 | **[ERPNext](https://github.com/frappe/erpnext)** 📦 | Comprehensive open-source ERP & CRM system. Fully customizable for managing creator contract billing, commissions, and agency relationships. | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, MariaDB |

@@ -51,7 +51,7 @@ Below is a breakdown of leading SaaS platforms for creator discovery, campaign t
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of open-source creator platforms, discovery engines, and adaptable CRM foundations, sorted by **GitHub Stars_Count** in descending order.
+Below is a curated list of open-source creator platforms, discovery engines, and adaptable CRM foundations, sorted by **GitHub_Stars_Count** in descending order.
 
 | Project & Repo | Description | GitHub_Stars | Tech Stack |
 | :--- | :--- | :--- | :--- |
